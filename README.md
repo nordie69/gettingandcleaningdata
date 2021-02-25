@@ -3,4 +3,5 @@
 The script run_analysis.R is structured in xxx sections:
 
 ## Codebook
-There are the following variables:
+There are the following variables in the file
+
