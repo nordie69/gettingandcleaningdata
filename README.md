@@ -3,7 +3,8 @@
 ## Explaining script run_analysis.R
 The script run_analysis.R is structured in severak sections.
 
-* Reading the data files
+* Load needed libraries
+* Setting the working directory and reading the data files
 * Get the features row names
 * Combining data files for test and training data seperately
 * Merging both data sets
